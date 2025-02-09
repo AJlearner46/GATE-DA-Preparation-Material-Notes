@@ -4,3 +4,4 @@
 
 - You can also prepare in detail from GFG [https://www.geeksforgeeks.org/gate-da-notes-according-to-gate-2025-syllabus/]
 
+- All resources are not mine, I have curated resources.
